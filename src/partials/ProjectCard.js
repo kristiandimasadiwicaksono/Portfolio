@@ -2,9 +2,9 @@ import React from "react";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import GitHubButton from "react-github-btn";
 
-const ProjectCard = ({ project: { title, description, tags, link } }) => {
+const ProjectCard = ({ project: { title, description, link } }) => {
   return (
-    <div className="group w-full sm:w-1/2 m-4 mx-auto p-6 rounded-xl border-2 border-gray-300">
+    <div className="group w-full sm:w-1/2 m-4 mx-auto p-6 rounded-xl border-2 border-gray-400">
       <a href={link}>
         <h1 className="text-xl text-center font-bold">
           {title}{" "}
@@ -14,9 +14,6 @@ const ProjectCard = ({ project: { title, description, tags, link } }) => {
       <hr className="my-4" />
       <p className="">{description}</p>
       <div className="mt-4 mb-8 flex flex-wrap justify-center items-center gap-2">
-        {tags.map((tag) => (
-          <div className="px-4 py-1 border-2 rounded-full">{tag}</div>
-        ))}
       </div>
       <div class="w-full text-center">
         <GitHubButton href={link} data-color-scheme="no-preference: light; light: light; dark: light;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</GitHubButton>

@@ -3,18 +3,15 @@ import { FaPalette, FaReact, FaCode } from "react-icons/fa";
 
 const BOOTSTRAP_FOR_SKILL_ICON = "text-4xl mx-auto inline-block";
 const data = {
-  name: "Brayden W",
-  title: "Front-End Developer/Designer",
+  name: "Kristian Dimas A.W",
+  title: "Front-End / Back-End Developer",
   social: {
-    github: "https://github.com/BraydenTW",
-    dribbble: "https://github.com/BraydenTW",
-    twitter: "https://github.com/BraydenTW",
-    email: "someone@example.com",
+    github: "https://github.com/kristiandimasadiwicaksono",
+    email: "kristiandimasadiwicaksono@gmail.com",
   },
   about: {
     title: "My Background",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper porta pharetra. Nunc porta dui eu mattis laoreet. Quisque lobortis orci sagittis, luctus ligula nec, sagittis leo. Ut convallis eu mi dignissim facilisis. Donec egestas vitae sapien quis bibendum. Sed rhoncus aliquet felis, ac cursus dui varius sit amet. Etiam eu nisi ligula. Sed sagittis massa a metus pulvinar, eu vestibulum nulla molestie. Nullam luctus sit amet felis quis ullamcorper. ",
+    description:'I am a student at Politeknik Negeri Cilacap with a strong interest in web development, both frontend and backend. In backend development, I have experience in building RESTful APIs using CodeIgniter 4 and managing databases with MySQL. On the frontend side, I have worked on creating responsive user interfaces using HTML, CSS, Bootstrap, and Tailwind CSS. Currently, I am developing a web-based KRS distribution information system, where I am responsible for backend API development and frontend integration.',
   },
   skills: [
     {
@@ -22,37 +19,29 @@ const data = {
       skillIcon: <FaCode className={BOOTSTRAP_FOR_SKILL_ICON} />,
     },
     {
-      skillName: "Design/UX",
-      skillIcon: <FaPalette className={BOOTSTRAP_FOR_SKILL_ICON} />,
+      skillName: "Backend",
+      skillIcon: <FaCode className={BOOTSTRAP_FOR_SKILL_ICON} />,
+    },
+  ],
+  certificate: [
+    {
+      title: "Junior Web Developer",
+      description: "An Certificate from KOMINFO",
+      link: "https://drive.google.com/file/d/1Queo-LAd-Wdr8BUa_bGt08feBg0GcpLg/view"
     },
     {
-      skillName: "ReactJS",
-      skillIcon: <FaReact className={BOOTSTRAP_FOR_SKILL_ICON} />,
-    },
+      title: "Junior Web Developer",
+      description: "An Certificate from KOMINFO",
+      link: "https://drive.google.com/file/d/1Queo-LAd-Wdr8BUa_bGt08feBg0GcpLg/view"
+    }
   ],
   projects: [
     {
-      title: "React tailwind portfolio",
-      description: "👨‍🎨 An open-source portfolio template built with React and Tailwind.",
-      tags: [
-        "template",
-        "portfolio",
-        "reactjs",
-        "tailwindcss"
-      ],
-      link: "https://github.com/braydentw/react-tailwind-portfolio"
+      title: "Backend with CI4",
+      description: "🔥 An Backend with CodeIgniter 4, featuring RESTful APIs and database management",
+
+      link: "https://github.com/kristiandimasadiwicaksono/SI-KRS-Backend"
     },
-    {
-      title: "My personal website",
-      description: "⚡ My portfolio built with NextJS and TailwindCSS.",
-      tags: [
-        "website",
-        "portfolio",
-        "nextjs",
-        "tailwindcss"
-      ],
-      link: "https://github.com/braydentW/braydentw"
-    }
-  ]
+  ],
 };
 export default data;
