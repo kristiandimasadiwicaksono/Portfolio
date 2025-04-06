@@ -13,4 +13,4 @@ The original template was adapted from [BraydenTW's portfolio](https://github.co
 
 ## 📁 Folder Structure
 
-<pre> ```bash src/ ├── assets/ # Static assets and data (like data.js) │ └── data.js # All portfolio data (name, skills, projects, etc.) ├── components/ # Reusable components (e.g., Header, Footer) ├── partials/ # Card components (ProjectCard, CertificateCard, etc.) ├── sections/ # Main portfolio sections (Hero, About, Skills, Projects, Certificates, Contact) ├── App.js # Main app structure and routing └── index.js # Entry point of the application ``` </pre>
+<pre> '''bash src/ ├── assets/ # Static assets and data (like data.js) │ └── data.js # All portfolio data (name, skills, projects, etc.) ├── components/ # Reusable components (e.g., Header, Footer) ├── partials/ # Card components (ProjectCard, CertificateCard, etc.) ├── sections/ # Main portfolio sections (Hero, About, Skills, Projects, Certificates, Contact) ├── App.js # Main app structure and routing └── index.js # Entry point of the application ''' </pre>
