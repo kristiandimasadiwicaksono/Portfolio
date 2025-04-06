@@ -11,7 +11,7 @@ const data = {
   },
   about: {
     title: "My Background",
-    description:'I am a student at Politeknik Negeri Cilacap with a strong interest in web development, both frontend and backend. In backend development, I have experience in building RESTful APIs using CodeIgniter 4 and managing databases with MySQL. On the frontend side, I have worked on creating responsive user interfaces using HTML, CSS, Bootstrap, and Tailwind CSS. Currently, I am developing a web-based KRS distribution information system, where I am responsible for backend API development and frontend integration.',
+    description:'I am a student at Politeknik Negeri Cilacap with a strong interest in web development, both frontend and backend. In backend development, I have experience in building RESTful APIs using CodeIgniter 4 and managing databases with MySQL. On the frontend side, I have worked on creating responsive user interfaces using HTML, CSS, Bootstrap, and Tailwind CSS. Currently, I am developing a web KRS distribution information system, where I am responsible for backend API development and frontend integration.',
   },
   skills: [
     {
@@ -33,7 +33,7 @@ const data = {
       title: "Junior Web Developer",
       description: "An Certificate from KOMINFO",
       link: "https://drive.google.com/file/d/1Queo-LAd-Wdr8BUa_bGt08feBg0GcpLg/view"
-    }
+    },
   ],
   projects: [
     {
