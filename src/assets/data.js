@@ -26,12 +26,7 @@ const data = {
   certificate: [
     {
       title: "Junior Web Developer",
-      description: "An Certificate from KOMINFO",
-      link: "https://drive.google.com/file/d/1Queo-LAd-Wdr8BUa_bGt08feBg0GcpLg/view"
-    },
-    {
-      title: "Junior Web Developer",
-      description: "An Certificate from KOMINFO",
+      description: "A Certificate from KOMINFO",
       link: "https://drive.google.com/file/d/1Queo-LAd-Wdr8BUa_bGt08feBg0GcpLg/view"
     },
   ],
