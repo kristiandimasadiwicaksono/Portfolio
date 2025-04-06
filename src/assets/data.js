@@ -33,7 +33,7 @@ const data = {
   projects: [
     {
       title: "Backend with CI4",
-      description: "🔥 An Backend with CodeIgniter 4, featuring RESTful APIs and database management",
+      description: "🔥 A Backend with CodeIgniter 4, featuring RESTful APIs and database management",
 
       link: "https://github.com/kristiandimasadiwicaksono/SI-KRS-Backend"
     },
