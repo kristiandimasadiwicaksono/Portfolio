@@ -12,7 +12,6 @@ The original template was adapted from [BraydenTW's portfolio](https://github.co
 - Sections: About, Skills, Projects, Certificates, and Contact
 
 ## 📁 Folder Structure
-## 📁 Folder Structure
 
 ```bash
 src/
