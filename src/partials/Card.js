@@ -1,23 +1,21 @@
 import React from "react";
-import profile from "../images/profile.png";
+import profile from "../images/Kristian_Dimas_Adi_Wicaksono.JPG";
 import { FaGithub } from "react-icons/fa";
-import { FaDribbble } from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa";
 import { FaRegEnvelope } from "react-icons/fa";
 
 function Card({ name, title, social: { github, email } }) {
   return (
     <div className="w-full">
       <div className="flex flex-col justify-center max-w-xs mx-auto bg-gray-200 shadow-xl rounded-xl p-5">
-        <div className="">
+        <div className="w-32 h-32 mx-auto overflow-hidden rounded-full shadow-xl">
           <img
-            className="w-32 mx-auto shadow-xl rounded-full"
+            className="w-full h-full object-cover object-top"
             src={profile}
-            alt="Profile face"
+            alt="Profile"
           />
         </div>
         <div className="text-center mt-5">
-          <p className="text-xl sm:text-2xl font-semibold text-gray-900">
+          <p className="text-l sm:text-xl font-semibold text-gray-900">
             {name}
           </p>
           <p className="text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2">

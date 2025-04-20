@@ -3,7 +3,7 @@ import { FaPalette, FaReact, FaCode } from "react-icons/fa";
 
 const BOOTSTRAP_FOR_SKILL_ICON = "text-4xl mx-auto inline-block";
 const data = {
-  name: "Kristian Dimas A.W",
+  name: "Kristian Dimas Adi Wicaksono",
   title: "Front-End / Back-End Developer",
   social: {
     github: "https://github.com/kristiandimasadiwicaksono",
@@ -27,19 +27,19 @@ const data = {
     {
       title: "Junior Web Developer",
       description: "A Certificate from KOMINFO",
-      link: "https://drive.google.com/file/d/1Queo-LAd-Wdr8BUa_bGt08feBg0GcpLg/view"
+      link: "/sertif_JWD.pdf"
     },
   ],
   projects: [
     {
       title: "Backend with CI4",
-      description: "🔥 A Backend with CodeIgniter 4, featuring RESTful APIs and database management",
+      description: "🔥 Built with CodeIgniter 4, this backend provides RESTful API endpoints to manage student course registration (KRS), integrated with a MySQL database and structured for scalability.",
 
       link: "https://github.com/kristiandimasadiwicaksono/SI-KRS-Backend"
     },
     {
       title: "Digital library management (MVC)",
-      description: "💻 A digital library management system. I was responsible for developing the Frontend, focusing on responsive design, and user experience",
+      description: "📚 Built with MVC pattern, this digital library system allows users to manage books efficiently. I handled the Frontend — ensuring a responsive design and smooth user experience.",
 
       link: "https://github.com/NalindraDT/tugas3_kelompok4"
     },
