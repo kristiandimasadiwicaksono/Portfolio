@@ -29,10 +29,20 @@ const data = {
       description: "A Certificate from KOMINFO",
       link: "/sertif_JWD.pdf"
     },
+    {
+      title: "TOEIC",
+      description: "A Certificate from KOMINFO",
+      link: "/HUT_TI.png"
+    },
+    {
+      title: "TOEIC",
+      description: "A Certificate from KOMINFO",
+      link: "/sertif_JWD.pdf"
+    },
   ],
   projects: [
     {
-      title: "Backend with CI4",
+      title: "KRS - Backend",
       description: "🔥 Built with CodeIgniter 4, this backend provides RESTful API endpoints to manage student course registration (KRS), integrated with a MySQL database and structured for scalability.",
 
       link: "https://github.com/kristiandimasadiwicaksono/SI-KRS-Backend"
@@ -42,6 +52,12 @@ const data = {
       description: "📚 Built with MVC pattern, this digital library system allows users to manage books efficiently. I handled the Frontend — ensuring a responsive design and smooth user experience.",
 
       link: "https://github.com/NalindraDT/tugas3_kelompok4"
+    },
+    {
+      title: "Project Based Learning",
+      description: "This repository is part of a project-based learning initiative. It showcases a web-based digital library system built using the MVC (Model-View-Controller) architecture. The system allows users to manage books efficiently. It is developed using PHP, HTML, CSS, and Tailwind CSS.",
+
+      link: "https://github.com/kristiandimasadiwicaksono/PBL"
     },
   ],
 };
