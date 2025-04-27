@@ -1,4 +1,3 @@
-// src/partials/CertificateCard.js
 import React from "react";
 
 const CertificateCard = ({ title, description, link }) => {

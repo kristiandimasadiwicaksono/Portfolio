@@ -1,5 +1,5 @@
 import React from "react";
-import { FaPalette, FaReact, FaCode } from "react-icons/fa";
+import { FaCode } from "react-icons/fa";
 
 const BOOTSTRAP_FOR_SKILL_ICON = "text-4xl mx-auto inline-block";
 const data = {
@@ -26,18 +26,18 @@ const data = {
   certificate: [
     {
       title: "Junior Web Developer",
-      description: "A Certificate from KOMINFO",
-      link: "/sertif_JWD.pdf"
+      description: "Certified by KOMINFO",
+      link: "https://drive.google.com/file/d/1pAq_cuDrtV4l_gvAINxNAt6IjdUGSrrD/view?usp=sharing"
     },
     {
-      title: "TOEIC",
-      description: "A Certificate from KOMINFO",
-      link: "/HUT_TI.png"
+      title: "Multimedia",
+      description: "Certified by LSP",
+      link: "https://drive.google.com/file/d/10tWTTVGWiAIAo7X2NSFRtpQAsh2iOuT9/view?usp=sharing"
     },
     {
-      title: "TOEIC",
-      description: "A Certificate from KOMINFO",
-      link: "/sertif_JWD.pdf"
+      title: "Informatics Engineering Anniversary",
+      description: "Certified by HIMATRIS",
+      link: "https://drive.google.com/file/d/1ixzHl3tewCONmFrYHGHYWZdXz0ouvrhE/view?usp=sharing"
     },
   ],
   projects: [
