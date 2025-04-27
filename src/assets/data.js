@@ -55,7 +55,7 @@ const data = {
     },
     {
       title: "Project Based Learning",
-      description: "This repository is part of a project-based learning initiative. It showcases a web-based digital library system built using the MVC (Model-View-Controller) architecture. The system allows users to manage books efficiently. It is developed using PHP, HTML, CSS, and Tailwind CSS.",
+      description: "📚 Project-Based Learning: Digital Library System built with MVC architecture.",
 
       link: "https://github.com/kristiandimasadiwicaksono/PBL"
     },
