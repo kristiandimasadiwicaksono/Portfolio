@@ -7,6 +7,7 @@ const data = {
   title: "Front-End / Back-End Developer",
   social: {
     github: "https://github.com/kristiandimasadiwicaksono",
+    linkedin: "https://www.linkedin.com/in/kristian-dimas-5486b2360/",
     email: "kristiandimasadiwicaksono@gmail.com",
   },
   about: {
