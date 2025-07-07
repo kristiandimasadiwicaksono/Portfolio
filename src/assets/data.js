@@ -40,6 +40,16 @@ const data = {
       description: "Certified by HIMATRIS",
       link: "https://drive.google.com/file/d/1ixzHl3tewCONmFrYHGHYWZdXz0ouvrhE/view?usp=sharing"
     },
+    {
+      title: "Cloud & Gen AI AWS",
+      description: "Certified by dicoding",
+      link: "https://drive.google.com/file/d/1wlohlAL_Kaiag0Df5BWbkOJwXEYgDPOS/view?usp=sharing"
+    },
+    {
+      title: "Fundamental JavaScript Programming ",
+      description: "Certified by dicoding",
+      link: "https://drive.google.com/file/d/1kZbQYmJf2rx-qpDo1yXSo5GtwK9EhyD2/view?usp=sharing"
+    },
   ],
   projects: [
     {
@@ -59,6 +69,18 @@ const data = {
       description: "📚 Project-Based Learning: Digital Library System built with MVC architecture.",
 
       link: "https://github.com/kristiandimasadiwicaksono/PBL"
+    },
+    {
+      title: "UI/UX for Sistem Informasi Perpustakaan",
+      description: "🖥️ A user interface design for a web-based digital library system. Includes a dashboard for managing users, books, publishers, and loan records, as well as a clean and modern user form layout.",
+
+      link: "https://www.figma.com/design/cEejrFscv6nfTmCaSPPgyB/Untitled?node-id=0-1&t=djJ16pvweDTmqlkL-1"
+    },
+    {
+      title: "UI/UX for Sistem Informasi Pariwisata Cilacap",
+      description: "🎨 UI/UX Design for a Tourism Information Website showcasing destinations and public services in Cilacap.",
+
+      link: "https://www.figma.com/design/XaxfgcWdC4N57zXmWQY8GQ/Untitled?node-id=0-1&t=vpY2VGBEkmCuZch3-1"
     },
   ],
 };
