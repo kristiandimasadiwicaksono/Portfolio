@@ -82,6 +82,12 @@ const data = {
 
       link: "https://www.figma.com/design/XaxfgcWdC4N57zXmWQY8GQ/Untitled?node-id=0-1&t=vpY2VGBEkmCuZch3-1"
     },
+    {
+      title: "UI/UX GC Wallet - New Feature for Game Consign Mobile App",
+      description: "🧩 Added a new e-wallet feature to the existing Game Consign mobile app. The feature (GC Wallet) allows users to manage balance, top up, transfer, and view transaction history.",
+      
+      link: "https://www.figma.com/design/FJs3vRpURrHB3D8gSGtQJu/Create-New-Feature?node-id=0-1&t=kPPfQ9ZsfE2MR4qg-1"
+    },
   ],
 };
 export default data;
